@@ -1,4 +1,4 @@
-QuestionID,YearEnd,Age(years),Data_Value,Question
+QuestionID,Year,Age(years),Data_Value,Question
 Q018,2017,18 - 24,40.638888888888886,Percent of adults who report consuming fruit less than one time daily
 Q018,2017,25 - 34,37.672222222222224,Percent of adults who report consuming fruit less than one time daily
 Q018,2017,35 - 44,36.71666666666667,Percent of adults who report consuming fruit less than one time daily
